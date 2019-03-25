@@ -8,4 +8,4 @@
 
 ## How much marketing affects traffic for blockchain companies to be noticed?
 
-## What's the approach to improve the idnividual's wallet management experience. Managing private is a big headache and doesn't make any sense and already out bounce the potential huge benefits of being decentralized.
+## What's the approach to improve the individual's wallet management experience. Managing private is a big headache and doesn't make any sense and already out bounce the potential huge benefits of being decentralized.
