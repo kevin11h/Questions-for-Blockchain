@@ -6,6 +6,6 @@
 
 ## What problems are cryptocurrency exchanges facing in light of new regulation for internal compliance improvements?
 
-## How much marketing effects traffic for blockchain companies to be noticed?
+## How much marketing affects traffic for blockchain companies to be noticed?
 
 
