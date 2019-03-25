@@ -1,9 +1,11 @@
 # Questions-for-Blockchain
 
-+ What problems are cryptocurrency exchanges facing in light of new regulation for internal compliance improvements?
+##+ Why are investors still investing in blockchain companies?
 
-+ Where is the market shifting with all the consolidations happening on the top level? And what does it mean for us?
+##+ Where is the market shifting with all the consolidations happening on the top level? And what does it mean for us?
 
-+ How much marketing effects traffic for blockchain companies to be noticed?
+##+ What problems are cryptocurrency exchanges facing in light of new regulation for internal compliance improvements?
 
-+ Why are investors still investing in blockchain companies?
+##+ How much marketing effects traffic for blockchain companies to be noticed?
+
+
